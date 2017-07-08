@@ -10,7 +10,7 @@ A data visualization web app using Python, Flask, Bootstrap, JavaScript, HTML/CS
 - [Boostrap Keen.io Template](https://keen.github.io/dashboards/)
 - [C3.js](http://c3js.org/) A javascript charting library based on d3.js
 
-![Alt text](/Screen_shot.png?raw=true "Optional Title")
+![](/Screenshot.png?raw=true)
 
 ## Getting started
 
